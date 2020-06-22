@@ -16,6 +16,7 @@ This unfinished build is of a team project I am currently working on. My main co
 * Added the Pagination functionality and components/routes to the Job Application section
 * Created and maintained and supported other teammates in regards to the MongoDB Atlas Cluster due to my additional experience in MongoDB from completing all of the MongoDB University online courses
 * All of the complex Aggregation queries in the server routing in the backend folders
+* Created and generated randomized data for use in the database using custom functions combined with faker.js
 * Implemented the UserId tracking in the sessionStorage to act as an additional foreign key, allowing the JWT to act as the access auth
 * Styling and logic/routes for all previously mentioned features
 
